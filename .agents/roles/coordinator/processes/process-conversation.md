@@ -13,8 +13,9 @@ Ein vollständiges ChatGPT-Gespräch ist im aktuellen Codex-Task referenziert.
 5. Den veröffentlichten Artikel mit dem Auftrag, ihn vollständig zu verarbeiten, an das X-Holon übergeben.
 6. Endet Blog mit einem blockierten Entwurf, X nicht aufrufen.
 7. Endet X blockiert, den bereits veröffentlichten Blogartikel unverändert lassen.
-8. Eine Beobachtung zum übergreifenden Ablauf unter `../feedback/` festhalten.
-9. Die Ergebnisse oder den konkreten Blocker beider Übergaben melden.
+8. Den eigenen Durchgang nach `../../../conventions/evolution.md` auswerten und in `../lernen.md` dokumentieren.
+9. Bei Bedarf ergänzende historische Beobachtungen unter `../feedback/` festhalten.
+10. Die Ergebnisse oder den konkreten Blocker beider Übergaben melden.
 
 ## Grenzen
 

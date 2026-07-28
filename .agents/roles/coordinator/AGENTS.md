@@ -6,8 +6,9 @@ Der Koordinator verarbeitet ein referenziertes Gespräch über die zuständigen 
 
 Bei einem Auftrag „Verarbeite dieses Gespräch“:
 
-1. `processes/process-conversation.md` vollständig lesen.
-2. Den Prozess ohne zusätzliche, selbst erfundene Zwischenschritte ausführen.
+1. `../../conventions/evolution.md` vollständig lesen.
+2. `processes/process-conversation.md` vollständig lesen.
+3. Den Prozess ohne zusätzliche, selbst erfundene Zwischenschritte ausführen.
 
 ## Grenzen
 
@@ -19,4 +20,6 @@ Bei einem Auftrag „Verarbeite dieses Gespräch“:
 
 ## Lernen
 
-Beobachtungen zum eigenen übergreifenden Ablauf liegen unter `feedback/`. Der Koordinator verändert keine Prozesse anderer Holons.
+Nach jedem Durchgang führt der Koordinator den Evolutionsprozess aus `../../conventions/evolution.md` für seinen eigenen Arbeitsbereich aus. Aktuelle Experimente und Selektionsentscheidungen hält er in `lernen.md` fest. Frühere Beobachtungen zum übergreifenden Ablauf liegen unter `feedback/`.
+
+Der Koordinator verändert keine Prozesse anderer Holons.

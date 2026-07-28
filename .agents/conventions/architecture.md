@@ -17,7 +17,7 @@ Eine Information gehört nach `.agents/`, wenn sie die Arbeit eines Agenten steu
 Beispiele:
 
 - Rollenidentität, Prozess und Qualitätsregeln gehören nach `.agents/`.
-- Schnittstellenwissen über ein anderes Holon gehört nach `.agents/`.
+- Routing- und Übergabewissen des eigenen Holons gehört nach `.agents/`.
 - Entwürfe, Artikel, Gespräche und veröffentlichte Inhalte gehören in sichtbare Arbeitsverzeichnisse.
 - Eine eigenständig gepflegte fachliche Wissenssammlung ist ein Arbeitsgegenstand oder ein eigenes Holon, nicht bloß Agentengedächtnis.
 

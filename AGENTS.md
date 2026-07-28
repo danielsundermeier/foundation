@@ -9,6 +9,7 @@ Foundation ist ein eigenständiges Holon und der Einstiegspunkt für gemeinsame 
 - `AGENTS.md` ist der Einstiegspunkt eines Holons und verweist auf die zuständige Rolle.
 
 Die Architekturkonvention steht unter `.agents/conventions/architecture.md`.
+Die verbindliche Kultur der kontinuierlichen Verbesserung steht unter `.agents/conventions/evolution.md`.
 
 ## Zuständigkeit
 

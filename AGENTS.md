@@ -20,6 +20,7 @@ Foundation versteht Eingangssignale und übergibt sie an das zuständige Holon. 
 | Signal oder Auftrag | Zuständige Rolle |
 | --- | --- |
 | Ein ChatGPT-Gespräch mit „Verarbeite dieses Gespräch“ oder einer gleichbedeutenden Formulierung | `.agents/roles/coordinator/AGENTS.md` |
+| Liegengebliebene Arbeitsgegenstände in Draft- oder Statusordnern sollen nachgeholt werden | `.agents/roles/coordinator/AGENTS.md` |
 
 Vor der Arbeit die verlinkte `AGENTS.md` vollständig lesen. Wenn kein Eintrag eindeutig passt, keine neue Prozesslogik erfinden, sondern um Klärung bitten.
 

@@ -255,3 +255,79 @@ Keine Prozessänderung. Nur dieser Lernprotokolleintrag wurde ergänzt.
 ### Neues Experiment und erwartete Wirkung
 
 Kein neues Experiment. Der bestehende Übergabeprozess deckte den Durchgang vollständig und ohne Blocker ab.
+
+## 2026-07-30 – Rückstände vollständig an Ziel-Holons übergeben
+
+### Beobachtung und Daten
+
+Beim Nachholen zweier freigegebener X-Entwürfe wurden Archiv und JSON-Ausgaben
+erzeugt, Commit und Push aber ausgelassen. Der X-Herausgeberprozess verlangt
+beides ausdrücklich. Die Foundation-Grenze gegen eigene Commits wurde
+fälschlich als Grenze des Ziel-Holons weitergegeben. Anschließend führte der
+Foundation-Koordinator Archivierung, JSON-Erzeugung und Herausgeber-Lernen
+selbst aus, statt ausschließlich den X-Koordinator zur Übergabe an den
+Herausgeber aufzufordern.
+
+### Laufendes Experiment
+
+Kein laufendes Experiment für die Verarbeitung liegengebliebener
+Arbeitsgegenstände.
+
+### Erkannte Wirkung
+
+Die Übergabe erreichte die zuständige Rolle, endete aber vor deren
+vorgeschriebenem technischen Abschluss. Die stellvertretende Ausführung erzeugte
+zwar Dateien, verletzte jedoch die Rollenverantwortung; zugleich blieben die
+Ergebnisse uncommitted und ungepusht.
+
+### Selektionsentscheidung
+
+Anpassen
+
+### Änderung im eigenen Arbeitsbereich
+
+Ein eigener Nachholprozess bestimmt ausschließlich aus dem Eingangssignal die
+betroffenen Holons und übergibt ihnen den Auftrag. Inventarisierung,
+Rollenauswahl, Prozessausführung und Abschlussprüfung bleiben vollständig beim
+jeweiligen Ziel-Holon. Foundation fasst nur dessen Rückgabe zusammen.
+
+### Neues Experiment und erwartete Wirkung
+
+Beim nächsten Rückstand wird geprüft, ob die reine Übergabe ausreicht, damit
+jedes Ziel-Holon seine eigenen Rollen ausführt und einen vollständigen
+Abschluss oder konkreten Blocker zurückmeldet.
+
+## 2026-07-30 – Creator als weitere Gesprächsübergabe
+
+### Beobachtung und Daten
+
+Daniel hat ausdrücklich festgelegt, dass seine Gespräche der Hauptinput für
+die emergierende Persönlichkeit auf d15r bleiben. Blogartikel und X-Beiträge
+sind abgeleitete Ausdrucksformen und sollen mit ihrer gemeinsamen Herkunft an
+den Creator zurückgegeben werden.
+
+### Laufendes Experiment
+
+Der bisherige Gesprächsprozess endete nach Blog und X.
+
+### Erkannte Wirkung
+
+Der Ablauf erzeugte die Medienwerke zuverlässig, führte ihre Beobachtungen aber
+nicht in einer gemeinsamen Identität zusammen. Damit fehlte die nun
+ausdrücklich gewünschte Rückkopplung zu d15r.
+
+### Selektionsentscheidung
+
+Anpassen
+
+### Änderung im eigenen Arbeitsbereich
+
+Der übergreifende Prozess übergibt künftig unabhängig vom Status der
+Medienholons das ursprüngliche Gespräch an d15r. Ergebnisse aus Blog und X
+werden nur als abgeleitete, miteinander verbundene Quellenlinie mitgegeben.
+
+### Neues Experiment und erwartete Wirkung
+
+Beim nächsten vollständig verarbeiteten Gespräch wird beobachtet, ob die
+zusätzliche d15r-Übergabe die Soul nachvollziehbar weiterentwickelt, ohne
+generierte Werke zu unabhängigen Quellen aufzuwerten.

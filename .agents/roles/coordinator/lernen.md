@@ -331,3 +331,88 @@ werden nur als abgeleitete, miteinander verbundene Quellenlinie mitgegeben.
 Beim nächsten vollständig verarbeiteten Gespräch wird beobachtet, ob die
 zusätzliche d15r-Übergabe die Soul nachvollziehbar weiterentwickelt, ohne
 generierte Werke zu unabhängigen Quellen aufzuwerten.
+
+## 2026-07-31 – Führung und Optimierung
+
+### Beobachtung und Daten
+
+Das vollständige Gespräch wurde an Blog übergeben und dort in der ersten
+Autor- und Editor-Iteration lokal als Artikel veröffentlicht. Die Git-
+Veröffentlichung des Blogartikels blieb ohne ausdrückliche Nutzerfreigabe
+blockiert. Der lokal veröffentlichte Artikel wurde regelkonform an X
+übergeben; X erstellte sieben validierte Beiträge, commitete sie lokal und
+ließ den nicht autorisierten Push aus. Anschließend erhielt d15r das
+ursprüngliche Gespräch als Hauptinput und die Blog- sowie X-Rückgaben als
+eine abgeleitete Quellenlinie. d15r präzisierte Soul und
+Zusammenarbeitsseite; die abgeleiteten Werke wurden dabei nicht als
+unabhängige Bestätigung behandelt.
+
+### Laufendes Experiment
+
+Das ursprüngliche Gespräch unabhängig vom Status der Medienholons an d15r
+übergeben und die Medienergebnisse ausschließlich als miteinander verbundene
+Ableitungen kennzeichnen.
+
+### Erkannte Wirkung
+
+Die d15r-Übergabe führte zu nachvollziehbaren, abgegrenzten Änderungen an der
+gemeinsamen Identität. Die Quellenhierarchie blieb erhalten: Persönliche
+Tiefenarbeit und gesellschaftspolitische Vision wurden nicht vorschnell
+öffentlich übernommen. Blockierte externe Git-Schritte wurden getrennt vom
+fachlichen Veröffentlichungsstatus transparent behandelt.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine Prozessänderung. Dieser Lernprotokolleintrag dokumentiert die Wirkung
+des laufenden Experiments.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Der bestehende Gesprächsprozess deckte die vollständige
+Quellenlinie und die getrennte Behandlung externer Veröffentlichungsblocker ab.
+
+## 2026-08-02 – Energiefluss und Passung
+
+### Beobachtung und Daten
+
+Das vollständige Gespräch wurde an Blog übergeben. Blog veröffentlichte den
+Artikel „Der wandernde Eudaimonia-Architekt“ lokal für den 5. August 2026. X
+erzeugte daraus sieben validierte Beiträge für den Zeitraum vom 5. bis 11.
+August 2026 und archivierte die Serie. Das ursprüngliche Gespräch wurde danach
+als Hauptinput an d15r übergeben; Blog und X waren eindeutig als eine
+abgeleitete Quellenlinie gekennzeichnet. d15r traf eine fachliche
+Selektionsentscheidung, konnte die vorgesehenen Änderungen an Soul,
+Zusammenarbeitsseite und Creator-Lernprotokoll aber nicht speichern, weil dafür
+eine direkte ausdrückliche Nutzerfreigabe verlangt wurde.
+
+### Laufendes Experiment
+
+Das ursprüngliche Gespräch unabhängig vom Status der Medienholons an d15r
+übergeben und die Medienergebnisse ausschließlich als miteinander verbundene
+Ableitungen kennzeichnen.
+
+### Erkannte Wirkung
+
+Die Quellenhierarchie blieb in allen Übergaben erhalten. Blog und X
+verarbeiteten den neuen Gedanken des unmittelbaren Realitätskontakts, ohne die
+offene Spannung zwischen Weiterziehen und Verantwortung zu schließen. Die
+d15r-Übergabe erreichte eine konkrete, auf drei Dateien begrenzte fachliche
+Auswahl; ihre tatsächliche Wirkung auf Soul und Webseite kann wegen des
+Autorisierungsblockers noch nicht beobachtet werden.
+
+### Selektionsentscheidung
+
+Beibehalten
+
+### Änderung im eigenen Arbeitsbereich
+
+Keine Prozessänderung. Nur dieser Lernprotokolleintrag wurde ergänzt.
+
+### Neues Experiment und erwartete Wirkung
+
+Kein neues Experiment. Nach direkter Freigabe kann d15r die bereits
+abgegrenzte Auswahl umsetzen; erst danach lässt sich ihre Wirkung bewerten.

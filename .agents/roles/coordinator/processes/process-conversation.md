@@ -20,9 +20,8 @@ Ein vollständiges ChatGPT-Gespräch ist im aktuellen Codex-Task referenziert.
    Ergebnisse von Blog und X einschließlich ihrer Creator-Rückgaben als
    abgeleitete, eindeutig miteinander verbundene Quellenlinie mitgeben.
 10. d15r mit dem Auftrag aufrufen, Gespräch und Rückgaben über die zuständige
-    Rolle in die gemeinsame Identität und die weitere Entwicklung der Webseite
-    einfließen zu lassen. Die Auswahl und Ausführung des internen Prozesses
-    bestimmt d15r.
+    Rolle ausschließlich in die gemeinsame Identität einfließen zu lassen.
+    Die Auswahl und Ausführung des internen Identitätsprozesses bestimmt d15r.
 11. Den eigenen Durchgang nach `../../../conventions/evolution.md` auswerten
     und nur relevante neue Erfahrung gegenstandsbezogen unter `../lernen/`
     festhalten.
@@ -35,4 +34,9 @@ Ein vollständiges ChatGPT-Gespräch ist im aktuellen Codex-Task referenziert.
 - Keine direkten Änderungen an Knowledge oder d15r. Änderungen in d15r nimmt
   ausschließlich dessen zuständige Rolle nach der Übergabe vor.
 - Keine direkte Veröffentlichung über eine Plattform-API.
-- Keine eigenen Commits oder Pushes.
+- Foundation erstellt keine eigenen Commits oder Pushes. Die zuständigen Rollen
+  von Blog, X und d15r dürfen die eindeutig zu diesem Zyklus gehörenden
+  Änderungen nach den Prozessen ihres Holons committen und ohne Force-Push
+  pushen. Diese Berechtigung wird in jeder Übergabe ausdrücklich mitgegeben.
+- Die d15r-Übergabe darf aktuell nur die Identität verändern. Sie beauftragt
+  keine sichtbaren oder technischen Änderungen an der Webseite.

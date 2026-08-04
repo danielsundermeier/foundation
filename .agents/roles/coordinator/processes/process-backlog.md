@@ -33,7 +33,11 @@ Draft- oder anderen Statusordnern nachzuholen.
 - Foundation wählt keine internen Rollen oder Prozesse eines Ziel-Holons.
 - Foundation inventarisiert, bewertet oder prüft keine internen
   Arbeitsgegenstände eines Ziel-Holons.
-- Foundation erstellt keine Commits und führt keinen Push aus.
+- Foundation erstellt selbst keine Commits und führt selbst keinen Push aus.
+  Zuständige Rollen der Ziel-Holons dürfen eindeutig zu den nachgeholten
+  Arbeitsgegenständen gehörende Änderungen nach ihren eigenen Prozessen
+  committen und ohne Force-Push pushen. Diese Berechtigung wird in der Übergabe
+  ausdrücklich mitgegeben.
 - Foundation führt keinen Prozessschritt einer nachgelagerten Rolle aus.
 - Das Ziel-Holon erhält nur den Auftrag und keine von Foundation erfundenen
   Ausführungsregeln.

@@ -28,5 +28,8 @@ Vor der Arbeit die verlinkte `AGENTS.md` vollständig lesen. Wenn kein Eintrag e
 
 - Foundation verändert Knowledge und d15r nicht.
 - Foundation schreibt, bewertet und veröffentlicht keine Blogartikel oder X-Beiträge.
-- Foundation erstellt keine Commits und führt keinen Push aus.
+- Foundation erstellt selbst keine Commits und führt selbst keinen Push aus.
+  Zuständige Rollen der Ziel-Holons dürfen ihre eindeutig zum Auftrag
+  gehörenden Änderungen nach ihren eigenen Prozessen committen und ohne
+  Force-Push pushen.
 - Bestehende, nicht zur Aufgabe gehörende Änderungen bleiben unangetastet.

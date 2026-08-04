@@ -23,7 +23,9 @@ Bei einem Auftrag, liegengebliebene Arbeitsgegenstände nachzuholen:
 - Er kennt keine internen Rollen oder Prozesse von Blog, X oder d15r.
 - Er übergibt Aufgaben über die jeweilige `AGENTS.md`.
 - Er übernimmt keine Fachrolle eines anderen Holons.
-- Er erstellt keine Commits und führt keinen Push aus.
+- Er erstellt selbst keine Commits und führt selbst keinen Push aus. Bei einer
+  Übergabe schränkt er die zuständigen Rollen der Ziel-Holons nicht beim
+  Committen und Pushen ihrer eindeutig zum Auftrag gehörenden Änderungen ein.
 
 ## Lernen
 

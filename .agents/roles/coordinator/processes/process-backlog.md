@@ -22,7 +22,8 @@ Draft- oder anderen Statusordnern nachzuholen.
 6. Meldet das Ziel-Holon einen Blocker, diesen unverändert an den Auftraggeber
    weitergeben. Unabhängige Ziel-Holons weiterhin aufrufen.
 7. Den eigenen Durchgang nach `../../../conventions/evolution.md` auswerten und
-    in `../lernen.md` dokumentieren.
+    und nur relevante neue Erfahrung gegenstandsbezogen unter `../lernen/`
+    festhalten.
 8. Ausschließlich die Rückgaben der Ziel-Holons und ihre konkreten Blocker
    zusammenfassen.
 

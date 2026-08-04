@@ -23,7 +23,9 @@ Ein vollständiges ChatGPT-Gespräch ist im aktuellen Codex-Task referenziert.
     Rolle in die gemeinsame Identität und die weitere Entwicklung der Webseite
     einfließen zu lassen. Die Auswahl und Ausführung des internen Prozesses
     bestimmt d15r.
-11. Den eigenen Durchgang nach `../../../conventions/evolution.md` auswerten und in `../lernen.md` dokumentieren.
+11. Den eigenen Durchgang nach `../../../conventions/evolution.md` auswerten
+    und nur relevante neue Erfahrung gegenstandsbezogen unter `../lernen/`
+    festhalten.
 12. Bei Bedarf ergänzende historische Beobachtungen unter `../feedback/` festhalten.
 13. Die Ergebnisse oder konkreten Blocker aller Übergaben melden.
 

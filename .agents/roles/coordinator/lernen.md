@@ -1,4 +1,7 @@
-# Lernprotokoll des Foundation-Koordinators
+# Historisches Lernarchiv des Foundation-Koordinators
+
+Diese Datei bewahrt frühere Zyklen unverändert. Neue relevante Erfahrung wird
+gegenstandsbezogen unter `lernen/` abgelegt; diese Datei wird nicht erweitert.
 
 Hier entwickelt der Koordinator ausschließlich seinen eigenen Übergabeprozess weiter.
 

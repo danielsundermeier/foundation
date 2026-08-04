@@ -27,6 +27,10 @@ Bei einem Auftrag, liegengebliebene Arbeitsgegenstände nachzuholen:
 
 ## Lernen
 
-Nach jedem Durchgang führt der Koordinator den Evolutionsprozess aus `../../conventions/evolution.md` für seinen eigenen Arbeitsbereich aus. Aktuelle Experimente und Selektionsentscheidungen hält er in `lernen.md` fest. Frühere Beobachtungen zum übergreifenden Ablauf liegen unter `feedback/`.
+Nach jedem Durchgang führt der Koordinator den Evolutionsprozess aus
+`../../conventions/evolution.md` für seinen eigenen Arbeitsbereich aus. Nur
+relevante neue Erfahrung hält er gegenstandsbezogen unter `lernen/` fest.
+`lernen.md` bleibt ein historisches Archiv. Ergänzende historische
+Beobachtungen zum übergreifenden Ablauf liegen unter `feedback/`.
 
 Der Koordinator verändert keine Prozesse anderer Holons.

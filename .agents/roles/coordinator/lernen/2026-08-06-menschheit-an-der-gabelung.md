@@ -8,14 +8,19 @@ Tool-Ausgabe verfügbar. Eine bloße Inhaltsgliederung genügte deren Anforderun
 an eine vollständige, wortgetreue Quelle nicht. Erst eine temporäre Datei mit
 allen Turns machte die Quelle zuverlässig über Holon-Grenzen zugänglich.
 
+Im Folgedurchgang „Komplexität und Nischenbildung“ trat derselbe Abrufblocker
+bei Blog und d15r erneut auf, weil die geplante temporäre Volltextquelle vor
+der ersten Übergabe nicht angelegt worden war. Beide Holons konnten erst nach
+einer zusätzlichen manuellen Quellenübergabe weiterarbeiten.
+
 ## Selektion
 
-Anpassen
+Beibehalten
 
 ## Konsequenz
 
-Neues Experiment: Bei der nächsten Gesprächsverarbeitung stellt der
-Koordinator den vollständig geladenen Wortlaut bereits vor der ersten
-Übergabe als temporäre, nicht zu veröffentlichende Quelle bereit und gibt
-deren Pfad mit. Beobachtet wird, ob dadurch erneute Abrufe und Unterbrechungen
-im Ziel-Holon entfallen.
+Das bestehende Experiment bleibt bestehen: Bei der nächsten
+Gesprächsverarbeitung stellt der Koordinator den vollständig geladenen
+Wortlaut bereits vor der ersten Übergabe als temporäre, nicht zu
+veröffentlichende Quelle bereit und gibt deren Pfad mit. Seine Wirkung ist
+weiterhin noch nicht geprüft.

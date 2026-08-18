@@ -13,14 +13,18 @@ bei Blog und d15r erneut auf, weil die geplante temporäre Volltextquelle vor
 der ersten Übergabe nicht angelegt worden war. Beide Holons konnten erst nach
 einer zusätzlichen manuellen Quellenübergabe weiterarbeiten.
 
+Im späteren Durchgang „Leben in unterschiedlichen Phasen“ konnten Blog und
+d15r das referenzierte Gespräch dagegen selbst über seine Conversation-ID und
+alle Cursor-Seiten bis `hasMore=false` vollständig erfassen. Eine temporäre
+Volltextquelle war nicht mehr nötig.
+
 ## Selektion
 
-Beibehalten
+Verwerfen
 
 ## Konsequenz
 
-Das bestehende Experiment bleibt bestehen: Bei der nächsten
-Gesprächsverarbeitung stellt der Koordinator den vollständig geladenen
-Wortlaut bereits vor der ersten Übergabe als temporäre, nicht zu
-veröffentlichende Quelle bereit und gibt deren Pfad mit. Seine Wirkung ist
-weiterhin noch nicht geprüft.
+Das Experiment mit einer temporären Volltextquelle wird verworfen. Solange die
+nachgelagerten Holons das Gespräch selbst vollständig über Conversation-ID und
+Cursor laden können, genügt die direkte Referenz. Eine temporäre Quelle bleibt
+nur eine Ausweichlösung für einen tatsächlich erneut beobachteten Abrufblocker.

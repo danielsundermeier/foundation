@@ -10,6 +10,8 @@ Foundation ist ein eigenständiges Holon und der Einstiegspunkt für gemeinsame 
 
 Die Architekturkonvention steht unter `.agents/conventions/architecture.md`.
 Die verbindliche Kultur der kontinuierlichen Verbesserung steht unter `.agents/conventions/evolution.md`.
+Der verbindliche Kontext zur bewussten Öffentlichkeit aller Repositories und
+zu vorgesehenen Pushes steht unter `.agents/conventions/repositories.md`.
 
 ## Zuständigkeit
 

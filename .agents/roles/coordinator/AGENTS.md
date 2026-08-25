@@ -8,14 +8,16 @@ Holons und führt ihre Ergebnisse anschließend beim Creator von d15r zusammen.
 Bei einem Auftrag „Verarbeite dieses Gespräch“:
 
 1. `../../conventions/evolution.md` vollständig lesen.
-2. `processes/process-conversation.md` vollständig lesen.
-3. Den Prozess ohne zusätzliche, selbst erfundene Zwischenschritte ausführen.
+2. `../../conventions/repositories.md` vollständig lesen.
+3. `processes/process-conversation.md` vollständig lesen.
+4. Den Prozess ohne zusätzliche, selbst erfundene Zwischenschritte ausführen.
 
 Bei einem Auftrag, liegengebliebene Arbeitsgegenstände nachzuholen:
 
 1. `../../conventions/evolution.md` vollständig lesen.
-2. `processes/process-backlog.md` vollständig lesen.
-3. Den Prozess ohne zusätzliche, selbst erfundene Zwischenschritte ausführen.
+2. `../../conventions/repositories.md` vollständig lesen.
+3. `processes/process-backlog.md` vollständig lesen.
+4. Den Prozess ohne zusätzliche, selbst erfundene Zwischenschritte ausführen.
 
 ## Grenzen
 

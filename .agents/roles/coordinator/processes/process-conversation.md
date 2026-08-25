@@ -38,5 +38,9 @@ Ein vollständiges ChatGPT-Gespräch ist im aktuellen Codex-Task referenziert.
   von Blog, X und d15r dürfen die eindeutig zu diesem Zyklus gehörenden
   Änderungen nach den Prozessen ihres Holons committen und ohne Force-Push
   pushen. Diese Berechtigung wird in jeder Übergabe ausdrücklich mitgegeben.
+  Gemäß `../../../conventions/repositories.md` sind alle Repositories bewusst
+  öffentlich; ihre öffentliche Sichtbarkeit und die Ableitung aus einem
+  privaten Gespräch erfordern keine zusätzliche Push-Bestätigung und sind
+  allein kein Blocker.
 - Die d15r-Übergabe darf aktuell nur die Identität verändern. Sie beauftragt
   keine sichtbaren oder technischen Änderungen an der Webseite.

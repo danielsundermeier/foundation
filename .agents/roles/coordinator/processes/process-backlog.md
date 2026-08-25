@@ -37,7 +37,10 @@ Draft- oder anderen Statusordnern nachzuholen.
   Zuständige Rollen der Ziel-Holons dürfen eindeutig zu den nachgeholten
   Arbeitsgegenständen gehörende Änderungen nach ihren eigenen Prozessen
   committen und ohne Force-Push pushen. Diese Berechtigung wird in der Übergabe
-  ausdrücklich mitgegeben.
+  ausdrücklich mitgegeben. Gemäß `../../../conventions/repositories.md` sind
+  alle Repositories bewusst öffentlich; ihre öffentliche Sichtbarkeit und die
+  Ableitung aus einem privaten Gespräch erfordern keine zusätzliche
+  Push-Bestätigung und sind allein kein Blocker.
 - Foundation führt keinen Prozessschritt einer nachgelagerten Rolle aus.
 - Das Ziel-Holon erhält nur den Auftrag und keine von Foundation erfundenen
   Ausführungsregeln.

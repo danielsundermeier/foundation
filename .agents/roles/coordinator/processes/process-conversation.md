@@ -10,7 +10,7 @@ Ein vollständiges ChatGPT-Gespräch ist im aktuellen Codex-Task referenziert.
 2. Die `AGENTS.md` unter `/Users/danielsundermeier/code/danielsundermeier/blog/AGENTS.md` vollständig lesen.
 3. Das Gespräch mit dem Auftrag, es vollständig zu verarbeiten, an das Blog-Holon übergeben.
 4. Endet Blog mit einem veröffentlichten Artikel, die `AGENTS.md` unter `/Users/danielsundermeier/code/danielsundermeier/x/AGENTS.md` vollständig lesen.
-5. Den veröffentlichten Artikel mit dem Auftrag, ihn vollständig zu verarbeiten, an das X-Holon übergeben.
+5. Das vollständige Ursprungsgespräch mit eindeutiger Referenz sowie den veröffentlichten Artikel an das X-Holon übergeben. Eine öffentliche Artikel-URL nur mitgeben, wenn sie bereits bekannt ist; ihr Fehlen ist kein Blocker und es wird keine Ersatzadresse erfunden. Auftrag: genau einen eigenständigen Thread aus dem Denkweg des Gesprächs erstellen und als JSON für den Import durch d15r.de exportieren. Die Auswahl des internen Prozesses und des Exportformats bestimmt X. Import, Terminierung und Versand übernimmt d15r.de; Foundation und X rufen dafür keine Buffer-API auf.
 6. Endet Blog mit einem blockierten Entwurf, X nicht aufrufen.
 7. Endet X blockiert, den bereits veröffentlichten Blogartikel unverändert lassen.
 8. Unabhängig vom Status von Blog oder X die `AGENTS.md` unter
